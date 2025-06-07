@@ -67,9 +67,9 @@
 
 ### 🖼️ Screenshots
 
-| Challenge Generation | User Dashboard | Challenge History |
-|:---:|:---:|:---:|
-| ![Challenge](https://via.placeholder.com/300x200/3b82f6/ffffff?text=Challenge+Generation) | ![Dashboard](https://via.placeholder.com/300x200/8b5cf6/ffffff?text=User+Dashboard) | ![History](https://via.placeholder.com/300x200/10b981/ffffff?text=Challenge+History) |
+| Challenge Generation               | User Dashboard                    | Challenge History                  |
+|:----------------------------------:|:---------------------------------:|:----------------------------------:|
+| ![Challenge](cgen.png)             | ![Dashboard](dashboard.png)        | ![History](history.png)            |
 
 *Beautiful, modern interface with smooth animations*
 
